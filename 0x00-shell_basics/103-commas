@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -alrSm -d */ [0-9a-zA-Z] 
+ls -a -F -Sr -m [0-9]* [a-zA-Z]* \n 
