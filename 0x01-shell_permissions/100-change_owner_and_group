@@ -1,2 +1,2 @@
 #!/bin/bash
-chownchgrp vicentstaff julien
+sudo chown -R vicent:staff /tmp/h
