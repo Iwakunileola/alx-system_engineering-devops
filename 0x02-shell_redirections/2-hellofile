@@ -1,2 +1,2 @@
 #!/bin/bash
-ls /ietc/passwd
+cat /etc/passwd
