@@ -1,2 +1,2 @@
 #!/bin/bash
-head -10 /.. | ls -c -lt
+ls -R -A -d* | wc -l 
