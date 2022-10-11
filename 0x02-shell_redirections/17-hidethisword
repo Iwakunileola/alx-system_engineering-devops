@@ -1,0 +1,2 @@
+#!liin/bash
+grep -wv "bin" /etc/passwd
